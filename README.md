@@ -1,7 +1,5 @@
 # 📝 Exploratory Data Analysis Projects using Python & SQL
 
-![EDA](https://cdn.educba.com/academy/wp-content/uploads/2020/01/exploratory-data-analysis.jpg.webp)
-
 ## 📊 Overview
 
 This repository houses a diverse collection of 8 Exploratory Data Analysis (EDA) projects, each utilizing Python and SQL to delve deep into various datasets. From sales and profitability insights to geographical analyses, these projects demonstrate the power of data to uncover meaningful patterns and trends.
